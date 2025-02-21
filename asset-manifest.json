@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-counter-app/static/css/main.27a2ab78.css",
+    "main.js": "/simple-counter-app/static/js/main.6049397c.js",
+    "static/js/453.78638be2.chunk.js": "/simple-counter-app/static/js/453.78638be2.chunk.js",
+    "index.html": "/simple-counter-app/index.html",
+    "main.27a2ab78.css.map": "/simple-counter-app/static/css/main.27a2ab78.css.map",
+    "main.6049397c.js.map": "/simple-counter-app/static/js/main.6049397c.js.map",
+    "453.78638be2.chunk.js.map": "/simple-counter-app/static/js/453.78638be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27a2ab78.css",
+    "static/js/main.6049397c.js"
+  ]
+}
